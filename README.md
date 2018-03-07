@@ -5,5 +5,5 @@ Ce repository gère les fichiers de configurations utilisées dans le cadre du p
 
 * **activemq.xml** : configuration du broker activemq
 
-...*Modification de la configuration pour le paramètrage du nommage de la DLQ*..
+⋅⋅⋅*Modification de la configuration pour le paramètrage du nommage de la DLQ*⋅⋅
 
